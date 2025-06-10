@@ -1,0 +1,16 @@
+.badgeWrapper{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: rgba(178, 246, 255, 0.45);
+}
+
+.countryName{
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(17, 0, 255, 0.62);
+}
